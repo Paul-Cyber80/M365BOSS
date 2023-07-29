@@ -5,4 +5,6 @@ collect and hash the Unified Audit Log (UAL) and will also collect other log dat
 
 To download: click on CODE, Download ZIP.  SHA-256 hash for "M365BOSS-main.zip" is ab502701fb6f869a51e63a06ebb8368323ccffc064ea03a01a88f663d85a7031
 
-Coming soon will be a link to a YouTube video, which will describe the functionality of M365BOSS
+To run, right click on M365Boss.ps1 and then "Run with PowerShell"
+
+YouTube video, which describes the functionality of M365BOSS: https://youtu.be/6rk6E3qv4Qo
